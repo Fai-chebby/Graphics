@@ -1,0 +1,20 @@
+﻿Build started 11/15/2023 12:36:56 PM.
+     1>Project "C:\Users\chebe\Documents\Visual Studio 2010\Projects\triangle\triangle\triangle.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\triangle.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\triangle.unsuccessfulbuild".
+         Touching "Debug\triangle.lastbuildstate".
+     1>Done Building Project "C:\Users\chebe\Documents\Visual Studio 2010\Projects\triangle\triangle\triangle.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
